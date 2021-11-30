@@ -1,0 +1,1 @@
+Se conseguir conectar ao banco de dados corretamente instalar uma extençao no chrome chamada: Advanced REST client
